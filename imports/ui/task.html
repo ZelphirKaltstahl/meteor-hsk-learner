@@ -1,0 +1,16 @@
+<template name="task">
+    <li class="task-list-item
+               {{#if done}}task-list-item-done{{else}}task-list-item-open{{/if}}">
+        <div class="task-container">
+            <div class="task-text-container">
+                <span class="task-text">{{text}}</span>
+            </div>
+            <div class="task-button-container">
+                <button class="delete-task-button task-control-button">&#10005;</button>
+                <button class="mark-done-button
+                               task-control-button
+                               {{#if done}}mark-done-button-done{{else}}mark-done-button-open{{/if}}">&#10003;</button>
+            </div>
+        </div>
+    </li>
+</template>

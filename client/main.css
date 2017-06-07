@@ -1,0 +1,59 @@
+/* CSS declarations go here */
+.task-list {
+    list-style-type: none;
+    padding: 0px;
+}
+
+.task-list-item {
+    min-height: 3em;
+    width: 360px;
+
+    padding: 2px 2px 2px 2px;
+    margin-bottom: 0.2em;
+    margin-left: 0px;
+
+    word-break: break-all;
+
+    border-width: 1px 1px 3px 1px;
+    border-color: #000000;
+    border-style: solid;
+    border-radius: 3px;
+
+    box-shadow: 1px 1px;
+}
+.task-list-item-open {
+    background-color: #FFFFFF;
+}
+.task-list-item-done {
+    background-color: #EFEFEF;
+}
+
+.task-control-button {
+    border: 1px solid #808080;
+    border-radius: 5px;
+
+    background-color: #FFFFFF;
+}
+
+.task-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.task-text-container {
+    flex-grow: 1.0;
+}
+.task-button-container{
+
+}
+
+.mark-done-button-open {
+    background-color: #FFE0E0;
+}
+.mark-done-button-done {
+    background-color: #CCFFCC;
+}
+
+@media (max-width: 600px) {
+
+}

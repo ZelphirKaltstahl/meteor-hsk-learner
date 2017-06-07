@@ -1,0 +1,20 @@
+<body>
+    <div class="container">
+        <header>
+            <h1>Todo List</h1>
+            <form class="new-task-form">
+                <input type="text"
+                       name="new_task_text"
+                       placeholder="Type to add new tasks" />
+            </form>
+        </header>
+        <section class="tasks-section">
+            <input type="file" id="file">
+            <ul class="task-list">
+                {{#each tasks}}
+                {{> task}}
+                {{/each}}
+            </ul>
+        </section>
+    </div>
+</body>
