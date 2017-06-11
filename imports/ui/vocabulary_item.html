@@ -1,0 +1,62 @@
+<template name="vocabulary_item">
+    <div class="vocabulary-item-container{{#if metadata.learned}} learned{{else}} not-learned{{/if}}">
+        <table class="vocabulary-item-table">
+            <tbody>
+                <tr>
+                    <td class="vocabulary-item-cell">
+                        <p class="latin-letters right-aligned">English:</p>
+                    </td>
+                    <td class="vocabulary-item-cell">
+                        <p class="latin-letters left-aligned">{{translation_data.english}}</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="vocabulary-item-cell">
+                        <p class="latin-letters right-aligned">Pinyin:</p>
+                    </td>
+                    <td class="vocabulary-item-cell">
+                        <p class="latin-letters left-aligned">{{translation_data.pinyin}}</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="vocabulary-item-cell">
+                        <p class="latin-letters right-aligned">Simplified:</p>
+                    </td>
+                    <td class="vocabulary-item-cell hanci-cell">
+                        <div class="hanci-container">
+                            {{#each split_string translation_data.simplified}}
+                            <div class="hanzi-container">
+                                <p class="hanzi">{{this}}</p>
+                            </div>
+                            {{/each}}
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="vocabulary-item-cell">
+                        <p class="latin-letters right-aligned">Traditional:</p>
+                    </td>
+                    <td class="vocabulary-item-cell hanci-cell">
+                        <div class="hanci-container">
+                            {{#each split_string translation_data.traditional}}
+                            <div class="hanzi-container">
+                                <p class="hanzi">{{this}}</p>
+                            </div>
+                            {{/each}}
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="vocabulary-item-cell">
+                        <p class="id-label left-aligned">id:{{metadata.id}}</p>
+                    </td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="vocabulary-item-controls-container">
+            <button class="js-delete-vocabulary-item-button button">&#10005;</button>
+            <button class="js-learned-vocabulary-item-button button">&#10003;</button>
+        </div>
+    </div>
+</template>

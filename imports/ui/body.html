@@ -1,7 +1,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>Todo List</h1>
+            <h1>Todo List ({{incompleteCount}})</h1>
             <form class="new-task-form">
                 <input type="text"
                        name="new_task_text"
@@ -9,10 +9,38 @@
             </form>
         </header>
         <section class="tasks-section">
-            <input type="file" id="file">
             <ul class="task-list">
                 {{#each tasks}}
                 {{> task}}
+                {{/each}}
+            </ul>
+        </section>
+        <section class="controls-section">
+            <label>
+                <input type="checkbox"
+                       class="js-hide-learned-checkbox" />
+                Hide Completed Tasks
+            </label>
+            <section class="import-export-section">
+                <div class="form-field">
+                    <label for="import-file-input">Import from JSON file:</label>
+                    <input type="file"
+                           class="js-import-file-input" />
+                </div>
+                <div class="form-field">
+                    <label for="export-file-input">Export to JSON file:</label>
+                    <button class="js-download">Download</button>
+                    <!-- <label for="export-file-input">Export to JSON file:</label> -->
+                    <!-- <input type="file" -->
+                    <!--        class="js-export-file-input" /> -->
+                </div>
+            </section>
+        </section>
+        <section class="vocabulary-section">
+            <h1>{{not_learned_count}} to learn</h1>
+            <ul class="vocabulary-items-list">
+                {{#each vocabulary_items}}
+                {{> vocabulary_item}}
                 {{/each}}
             </ul>
         </section>

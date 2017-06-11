@@ -1,0 +1,7 @@
+body {
+    font-family: sans-serif;
+}
+
+.form-field label {
+    min-width: 220px;
+}

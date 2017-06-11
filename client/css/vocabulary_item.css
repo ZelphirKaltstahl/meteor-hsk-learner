@@ -1,0 +1,103 @@
+.vocabulary-items-list {
+    list-style-type: none;
+    padding: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.vocabulary-item-container {
+    display: inline-block;
+    border-style: solid;
+    border-width: 1px;
+    border-collapse: collapse;
+    border-radius: 0.4em;
+    box-shadow: 1px 2px 1px 1px #404040;
+    margin: 0.3em;
+    padding: 0.2em;
+}
+.vocabulary-item-container.learned {
+    background-color: #C9FFC9;
+}
+.vocabulary-item-container.not-learned {
+    background-color: #FFC9C9;
+}
+
+.vocabulary-item-table {
+}
+
+
+.vocabulary-items-list-item {
+    min-height: 3em;
+    width: 360px;
+
+    padding: 2px 2px 2px 2px;
+    margin-bottom: 0.2em;
+    margin-left: 0px;
+
+    word-break: break-all;
+
+    border-width: 1px 1px 3px 1px;
+    border-color: #404040;
+    border-style: solid;
+    border-radius: 3px;
+
+    box-shadow: 1px 1px;
+}
+
+p.latin-letters {
+    margin: 0em;
+    max-width: 10em;
+    font-size: 0.8em;
+}
+p.left-aligned {
+    text-align: left;
+}
+p.right-aligned {
+    text-align: right;
+}
+
+.vocabulary-item-cell {
+    margin: 0em;
+}
+
+.hanci-container {
+    display: flex;
+}
+
+.hanzi-container {
+    width: 3.2em;
+    height: 3.2em;
+    margin: 0em 0.1em 0em 0.1em;
+    background-image: url("img/background.svg");
+    background-size: contain;
+    line-height: 3.2em;
+    border: 1px solid #808080;
+    border-radius: 3px;
+    text-align: center;
+}
+.hanzi-container p {
+    visibility: hidden;
+}
+.hanzi-container:hover p {
+    visibility: visible;
+}
+
+.hanzi {
+    font-size: 3em;
+    display: inline;
+    text-align:center;
+    font-family: WenQuanYi Micro Hei;
+}
+
+.vocabulary-item-controls-container {
+}
+
+.button {
+    border: 1px solid #A0A0A0;
+    background-color: #FFFFFF;
+}
+
+.id-label {
+    font-size: 0.5em;
+}
