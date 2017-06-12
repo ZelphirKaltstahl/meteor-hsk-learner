@@ -3,7 +3,8 @@ import {ReactiveDict} from 'meteor/reactive-dict';
 
 import {Tasks} from '../api/tasks.js';
 import {VocabularyItems} from '../api/vocabulary_items.js';
-import {read_file, write_file} from '../api/file_reading.js';
+import {read_file} from '../api/file_reading.js';
+import {export_file} from '../api/file_writing.js';
 
 import './body.html';
 
@@ -101,25 +102,43 @@ Template.body.events({
         // Prevent default browser form submit
         event.preventDefault();
 
-        export_data = {};
-        export_data['metadata'] = instance.state.get('vocabulary_metadata');
+        function calculate_learned_percentage(list_of_words) {
+            list_of_words.forEach((word) => {delete word._id});
+            var learned_count = list_of_words
+                .filter((word) => word.metadata.learned)
+                .length;
+            return 100.0 / list_of_words.length * learned_count;
+        }
 
-        list_of_words = VocabularyItems
+        function cleanup_words(list_of_words) {
+            list_of_words.forEach((word) => {delete word._id});
+            return list_of_words;
+        }
+
+        var export_data = {};
+        var list_of_words = VocabularyItems
             .find({})
             .map((elem, ind, arr) => elem);
-        list_of_words
-            .forEach((word) => {delete word._id});
 
-        learned_count = list_of_words
-            .filter((word) => word.metadata.learned)
-            .length;
-        export_data['metadata']['learned_percentage'] = (
-            100.0 / list_of_words.length * learned_count);
+        if (instance.state.get('vocabulary_metadata')) {
+            export_data['metadata'] = instance.state.get('vocabulary_metadata');
+        } else {
+            export_data['metadata'] = {
+                'identifier': 'custom_vocabulary',
+                'learned_percentage': calculate_learned_percentage(list_of_words),
+                'count': list_of_words.length,
+                'source_note': 'unknown'
+            };
+        }
+
+        list_of_words = cleanup_words(list_of_words);
+        export_data['metadata']['learned_percentage'] = calculate_learned_percentage(list_of_words);
         export_data['words'] = list_of_words;
 
-        this.href = 'data:plain/text,' + JSON.stringify(export_data);
-        var dataURI = 'data:application/json;charset=utf-8,'
+        // var data_uri = 'data:plain/text,' + JSON.stringify(export_data);
+        var data_uri = 'data:application/json;charset=utf-8,'
             + encodeURIComponent(JSON.stringify(export_data));
-        window.location.replace(dataURI);
+
+        export_file(data_uri, 'vocabulary.json');
     }
 });

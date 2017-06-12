@@ -1,9 +1,9 @@
 {
     "metadata": {
         "identifier": "HSK3",
-        "learned_percentage": 0,
+        "learned-percentage": 0,
         "count": 300,
-        "source_note": "vocabulary taken from http://data.hskhsk.com/lists/ created by Alan Davies, alan@hskhsk.com 2013_2017"
+        "source-note": "vocabulary taken from http://data.hskhsk.com/lists/ created by Alan Davies, alan@hskhsk.com 2013-2017"
     },
     "words": [
         {
@@ -12,9 +12,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
-                "english": "auntie; step_mother; mother's younger sister",
-                "pinyin_numbered": "a1yi2",
+            "translation-data": {
+                "english": "auntie; step-mother; mother's younger sister",
+                "pinyin-numbered": "a1yi2",
                 "pinyin": "āyí",
                 "simplified": "阿姨",
                 "traditional": "阿姨"
@@ -26,9 +26,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "ah; (particle showing elation, doubt, puzzled surprise, or approval)",
-                "pinyin_numbered": "a5",
+                "pinyin-numbered": "a5",
                 "pinyin": "a",
                 "simplified": "啊",
                 "traditional": "啊"
@@ -40,9 +40,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "short; low",
-                "pinyin_numbered": "ai3",
+                "pinyin-numbered": "ai3",
                 "pinyin": "ǎi",
                 "simplified": "矮",
                 "traditional": "矮"
@@ -54,9 +54,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "hobby; fond of; to like; interest",
-                "pinyin_numbered": "ai4hao4",
+                "pinyin-numbered": "ai4hao4",
                 "pinyin": "àihào",
                 "simplified": "爱好",
                 "traditional": "愛好"
@@ -68,9 +68,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "quiet; peaceful; calm",
-                "pinyin_numbered": "an1jing4",
+                "pinyin-numbered": "an1jing4",
                 "pinyin": "ānjìng",
                 "simplified": "安静",
                 "traditional": "安靜"
@@ -82,9 +82,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "(mw for things with handles); (pretransitive particle); to hold",
-                "pinyin_numbered": "ba3",
+                "pinyin-numbered": "ba3",
                 "pinyin": "bǎ",
                 "simplified": "把",
                 "traditional": "把"
@@ -96,9 +96,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "team; class; squad",
-                "pinyin_numbered": "ban1",
+                "pinyin-numbered": "ban1",
                 "pinyin": "bān",
                 "simplified": "班",
                 "traditional": "班"
@@ -110,9 +110,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to move; to transport",
-                "pinyin_numbered": "ban1",
+                "pinyin-numbered": "ban1",
                 "pinyin": "bān",
                 "simplified": "搬",
                 "traditional": "搬"
@@ -124,9 +124,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "method; way (of doing something)",
-                "pinyin_numbered": "ban4fa3",
+                "pinyin-numbered": "ban4fa3",
                 "pinyin": "bànfǎ",
                 "simplified": "办法",
                 "traditional": "辦法"
@@ -138,9 +138,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "office",
-                "pinyin_numbered": "ban4gong1shi4",
+                "pinyin-numbered": "ban4gong1shi4",
                 "pinyin": "bàngōngshì",
                 "simplified": "办公室",
                 "traditional": "辦公室"
@@ -152,9 +152,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
-                "english": "half; semi_; incomplete",
-                "pinyin_numbered": "ban4",
+            "translation-data": {
+                "english": "half; semi-; incomplete",
+                "pinyin-numbered": "ban4",
                 "pinyin": "bàn",
                 "simplified": "半",
                 "traditional": "半"
@@ -166,9 +166,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to help",
-                "pinyin_numbered": "bang1mang2",
+                "pinyin-numbered": "bang1mang2",
                 "pinyin": "bāngmáng",
                 "simplified": "帮忙",
                 "traditional": "幫忙"
@@ -180,9 +180,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to cover; to wrap; to hold; include; (mw for containers, packages, etc.)",
-                "pinyin_numbered": "bao1",
+                "pinyin-numbered": "bao1",
                 "pinyin": "bāo",
                 "simplified": "包",
                 "traditional": "包"
@@ -194,9 +194,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "eat until full; satisfied",
-                "pinyin_numbered": "bao3",
+                "pinyin-numbered": "bao3",
                 "pinyin": "bǎo",
                 "simplified": "饱",
                 "traditional": "飽"
@@ -208,9 +208,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "north; the northern part of the country",
-                "pinyin_numbered": "bei3fang1",
+                "pinyin-numbered": "bei3fang1",
                 "pinyin": "běifāng",
                 "simplified": "北方",
                 "traditional": "北方"
@@ -222,9 +222,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "by (indicates passive voice sentences); a quilt/blanket",
-                "pinyin_numbered": "bei4",
+                "pinyin-numbered": "bei4",
                 "pinyin": "bèi",
                 "simplified": "被",
                 "traditional": "被"
@@ -236,9 +236,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "nose",
-                "pinyin_numbered": "bi2zi5",
+                "pinyin-numbered": "bi2zi5",
                 "pinyin": "bízi",
                 "simplified": "鼻子",
                 "traditional": "鼻子"
@@ -250,9 +250,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "compare; contrast; relatively",
-                "pinyin_numbered": "bi3jiao4",
+                "pinyin-numbered": "bi3jiao4",
                 "pinyin": "bǐjiào",
                 "simplified": "比较",
                 "traditional": "比較"
@@ -264,9 +264,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "(sports) match; competition",
-                "pinyin_numbered": "bi3sai4",
+                "pinyin-numbered": "bi3sai4",
                 "pinyin": "bǐsài",
                 "simplified": "比赛",
                 "traditional": "比賽"
@@ -278,9 +278,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "notebook",
-                "pinyin_numbered": "bi3ji4ben3",
+                "pinyin-numbered": "bi3ji4ben3",
                 "pinyin": "bǐjìběn",
                 "simplified": "笔记本",
                 "traditional": "筆記本"
@@ -292,9 +292,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "must; have to",
-                "pinyin_numbered": "bi4xu1",
+                "pinyin-numbered": "bi4xu1",
                 "pinyin": "bìxū",
                 "simplified": "必须",
                 "traditional": "必須"
@@ -306,9 +306,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "change",
-                "pinyin_numbered": "bian4hua4",
+                "pinyin-numbered": "bian4hua4",
                 "pinyin": "biànhuà",
                 "simplified": "变化",
                 "traditional": "變化"
@@ -320,9 +320,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "other people; others",
-                "pinyin_numbered": "bie2ren5",
+                "pinyin-numbered": "bie2ren5",
                 "pinyin": "biéren",
                 "simplified": "别人",
                 "traditional": "別人"
@@ -334,9 +334,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "refrigerator",
-                "pinyin_numbered": "bing1xiang1",
+                "pinyin-numbered": "bing1xiang1",
                 "pinyin": "bīngxiāng",
                 "simplified": "冰箱",
                 "traditional": "冰箱"
@@ -348,9 +348,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "not only",
-                "pinyin_numbered": "bu2dan4",
+                "pinyin-numbered": "bu2dan4",
                 "pinyin": "búdàn",
                 "simplified": "不但",
                 "traditional": "不但"
@@ -362,9 +362,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "moreover; in addition; as well as",
-                "pinyin_numbered": "er2qie3",
+                "pinyin-numbered": "er2qie3",
                 "pinyin": "érqiě",
                 "simplified": "而且",
                 "traditional": "而且"
@@ -376,9 +376,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "menu",
-                "pinyin_numbered": "cai4dan1",
+                "pinyin-numbered": "cai4dan1",
                 "pinyin": "càidān",
                 "simplified": "菜单",
                 "traditional": "菜單"
@@ -390,9 +390,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "participate; join; take part in",
-                "pinyin_numbered": "can1jia1",
+                "pinyin-numbered": "can1jia1",
                 "pinyin": "cānjiā",
                 "simplified": "参加",
                 "traditional": "參加"
@@ -404,9 +404,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "grass; straw; draft (of a document)",
-                "pinyin_numbered": "cao3",
+                "pinyin-numbered": "cao3",
                 "pinyin": "cǎo",
                 "simplified": "草",
                 "traditional": "草"
@@ -418,9 +418,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "(mw for layers, floors of buildings)",
-                "pinyin_numbered": "ceng2",
+                "pinyin-numbered": "ceng2",
                 "pinyin": "céng",
                 "simplified": "层",
                 "traditional": "層"
@@ -432,9 +432,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "differ from; fall short of; poor; inferior",
-                "pinyin_numbered": "cha4",
+                "pinyin-numbered": "cha4",
                 "pinyin": "chà",
                 "simplified": "差",
                 "traditional": "差"
@@ -446,9 +446,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "supermarket",
-                "pinyin_numbered": "chao1shi4",
+                "pinyin-numbered": "chao1shi4",
                 "pinyin": "chāoshì",
                 "simplified": "超市",
                 "traditional": "超市"
@@ -460,9 +460,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "shirt; blouse",
-                "pinyin_numbered": "chen4shan1",
+                "pinyin-numbered": "chen4shan1",
                 "pinyin": "chènshān",
                 "simplified": "衬衫",
                 "traditional": "襯衫"
@@ -474,9 +474,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "achievement; success; results (of work or study)",
-                "pinyin_numbered": "cheng2ji4",
+                "pinyin-numbered": "cheng2ji4",
                 "pinyin": "chéngjì",
                 "simplified": "成绩",
                 "traditional": "成績"
@@ -488,9 +488,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "city or town",
-                "pinyin_numbered": "cheng2shi4",
+                "pinyin-numbered": "cheng2shi4",
                 "pinyin": "chéngshì",
                 "simplified": "城市",
                 "traditional": "城市"
@@ -502,9 +502,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "arrive late",
-                "pinyin_numbered": "chi2dao4",
+                "pinyin-numbered": "chi2dao4",
                 "pinyin": "chídào",
                 "simplified": "迟到",
                 "traditional": "遲到"
@@ -516,9 +516,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "besides; except for; aside from; in addition to",
-                "pinyin_numbered": "chu2le5",
+                "pinyin-numbered": "chu2le5",
                 "pinyin": "chúle",
                 "simplified": "除了",
                 "traditional": "除了"
@@ -530,9 +530,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "a boat; vessel; ship",
-                "pinyin_numbered": "chuan2",
+                "pinyin-numbered": "chuan2",
                 "pinyin": "chuán",
                 "simplified": "船",
                 "traditional": "船"
@@ -544,9 +544,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "spring (season); joyful",
-                "pinyin_numbered": "chun1",
+                "pinyin-numbered": "chun1",
                 "pinyin": "chūn",
                 "simplified": "春",
                 "traditional": "春"
@@ -558,9 +558,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "dictionary",
-                "pinyin_numbered": "ci2dian3",
+                "pinyin-numbered": "ci2dian3",
                 "pinyin": "cídiǎn",
                 "simplified": "词典",
                 "traditional": "詞典"
@@ -572,9 +572,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "intelligent; clever; bright; smart",
-                "pinyin_numbered": "cong1ming5",
+                "pinyin-numbered": "cong1ming5",
                 "pinyin": "cōngming",
                 "simplified": "聪明",
                 "traditional": "聰明"
@@ -586,9 +586,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to clean; to sweep",
-                "pinyin_numbered": "da3sao3",
+                "pinyin-numbered": "da3sao3",
                 "pinyin": "dǎsǎo",
                 "simplified": "打扫",
                 "traditional": "打掃"
@@ -600,9 +600,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to plan; intend",
-                "pinyin_numbered": "da3suan4",
+                "pinyin-numbered": "da3suan4",
                 "pinyin": "dǎsuàn",
                 "simplified": "打算",
                 "traditional": "打算"
@@ -614,9 +614,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "band; belt; ribbon; carry; bring; take along; bring up (kids)",
-                "pinyin_numbered": "dai4",
+                "pinyin-numbered": "dai4",
                 "pinyin": "dài",
                 "simplified": "带",
                 "traditional": "帶"
@@ -628,9 +628,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to worry; feel anxious",
-                "pinyin_numbered": "dan1xin1",
+                "pinyin-numbered": "dan1xin1",
                 "pinyin": "dānxīn",
                 "simplified": "担心",
                 "traditional": "擔心"
@@ -642,9 +642,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "cake",
-                "pinyin_numbered": "dan4gao1",
+                "pinyin-numbered": "dan4gao1",
                 "pinyin": "dàngāo",
                 "simplified": "蛋糕",
                 "traditional": "蛋糕"
@@ -656,9 +656,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "of course; naturally",
-                "pinyin_numbered": "dang1ran2",
+                "pinyin-numbered": "dang1ran2",
                 "pinyin": "dāngrán",
                 "simplified": "当然",
                 "traditional": "當然"
@@ -670,9 +670,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "earth; ground | (adverbial particle)",
-                "pinyin_numbered": "di4, de5",
+                "pinyin-numbered": "di4, de5",
                 "pinyin": "dì, de",
                 "simplified": "地",
                 "traditional": "地"
@@ -684,9 +684,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "lamp; light",
-                "pinyin_numbered": "deng1",
+                "pinyin-numbered": "deng1",
                 "pinyin": "dēng",
                 "simplified": "灯",
                 "traditional": "燈"
@@ -698,9 +698,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "place; space; room; part, (fāng: local; regional)",
-                "pinyin_numbered": "di4fang5",
+                "pinyin-numbered": "di4fang5",
                 "pinyin": "dìfang",
                 "simplified": "地方",
                 "traditional": "地方"
@@ -712,9 +712,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "subway",
-                "pinyin_numbered": "di4tie3",
+                "pinyin-numbered": "di4tie3",
                 "pinyin": "dìtiě",
                 "simplified": "地铁",
                 "traditional": "地鐵"
@@ -726,9 +726,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "map",
-                "pinyin_numbered": "di4tu2",
+                "pinyin-numbered": "di4tu2",
                 "pinyin": "dìtú",
                 "simplified": "地图",
                 "traditional": "地圖"
@@ -740,9 +740,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "elevator",
-                "pinyin_numbered": "dian4ti1",
+                "pinyin-numbered": "dian4ti1",
                 "pinyin": "diàntī",
                 "simplified": "电梯",
                 "traditional": "電梯"
@@ -754,9 +754,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "email",
-                "pinyin_numbered": "dian4zi3 you2jian4",
+                "pinyin-numbered": "dian4zi3 you2jian4",
                 "pinyin": "diànzǐ yóujiàn",
                 "simplified": "电子邮件",
                 "traditional": "電子郵件"
@@ -768,9 +768,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "East",
-                "pinyin_numbered": "dong1",
+                "pinyin-numbered": "dong1",
                 "pinyin": "dōng",
                 "simplified": "东",
                 "traditional": "東"
@@ -782,9 +782,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "winter",
-                "pinyin_numbered": "dong1",
+                "pinyin-numbered": "dong1",
                 "pinyin": "dōng",
                 "simplified": "冬",
                 "traditional": "冬"
@@ -796,9 +796,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "animal",
-                "pinyin_numbered": "dong4wu4",
+                "pinyin-numbered": "dong4wu4",
                 "pinyin": "dòngwù",
                 "simplified": "动物",
                 "traditional": "動物"
@@ -810,9 +810,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "short (in length, duration, or height); lack",
-                "pinyin_numbered": "duan3",
+                "pinyin-numbered": "duan3",
                 "pinyin": "duǎn",
                 "simplified": "短",
                 "traditional": "短"
@@ -824,9 +824,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "paragraph; segment; section",
-                "pinyin_numbered": "duan4",
+                "pinyin-numbered": "duan4",
                 "pinyin": "duàn",
                 "simplified": "段",
                 "traditional": "段"
@@ -838,9 +838,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to exercise; work out; toughen; to temper",
-                "pinyin_numbered": "duan4lian4",
+                "pinyin-numbered": "duan4lian4",
                 "pinyin": "duànliàn",
                 "simplified": "锻炼",
                 "traditional": "鍛煉"
@@ -852,9 +852,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "how (wonderful, etc.); what (a great idea)",
-                "pinyin_numbered": "duo1me5",
+                "pinyin-numbered": "duo1me5",
                 "pinyin": "duōme",
                 "simplified": "多么",
                 "traditional": "多麼"
@@ -866,9 +866,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "hungry",
-                "pinyin_numbered": "e4",
+                "pinyin-numbered": "e4",
                 "pinyin": "è",
                 "simplified": "饿",
                 "traditional": "餓"
@@ -880,9 +880,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "ear",
-                "pinyin_numbered": "er3duo5",
+                "pinyin-numbered": "er3duo5",
                 "pinyin": "ěrduo",
                 "simplified": "耳朵",
                 "traditional": "耳朵"
@@ -894,9 +894,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "send out; to issue; to show (one's feelings) | hair",
-                "pinyin_numbered": "fa1, fa4",
+                "pinyin-numbered": "fa1, fa4",
                 "pinyin": "fā, fà",
                 "simplified": "发",
                 "traditional": "發"
@@ -908,9 +908,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "have a fever",
-                "pinyin_numbered": "fa1shao1",
+                "pinyin-numbered": "fa1shao1",
                 "pinyin": "fāshāo",
                 "simplified": "发烧",
                 "traditional": "發燒"
@@ -922,9 +922,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "discover; to find",
-                "pinyin_numbered": "fa1xian4",
+                "pinyin-numbered": "fa1xian4",
                 "pinyin": "fāxiàn",
                 "simplified": "发现",
                 "traditional": "發現"
@@ -936,9 +936,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "convenient",
-                "pinyin_numbered": "fang1bian4",
+                "pinyin-numbered": "fang1bian4",
                 "pinyin": "fāngbiàn",
                 "simplified": "方便",
                 "traditional": "方便"
@@ -950,9 +950,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "put; to place; to release; to free",
-                "pinyin_numbered": "fang4",
+                "pinyin-numbered": "fang4",
                 "pinyin": "fàng",
                 "simplified": "放",
                 "traditional": "放"
@@ -964,9 +964,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "relax; feel relieved; rest assured",
-                "pinyin_numbered": "fang4xin1",
+                "pinyin-numbered": "fang4xin1",
                 "pinyin": "fàngxīn",
                 "simplified": "放心",
                 "traditional": "放心"
@@ -978,9 +978,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "divide; part; minute; cent | component; share; ingredient",
-                "pinyin_numbered": "fen1, fen4",
+                "pinyin-numbered": "fen1, fen4",
                 "pinyin": "fēn, fèn",
                 "simplified": "分",
                 "traditional": "分"
@@ -992,9 +992,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "(in the) vicinity; nearby; neighboring",
-                "pinyin_numbered": "fu4jin4",
+                "pinyin-numbered": "fu4jin4",
                 "pinyin": "fùjìn",
                 "simplified": "附近",
                 "traditional": "附近"
@@ -1006,9 +1006,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "revise; to review",
-                "pinyin_numbered": "fu4xi2",
+                "pinyin-numbered": "fu4xi2",
                 "pinyin": "fùxí",
                 "simplified": "复习",
                 "traditional": "復習"
@@ -1020,9 +1020,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "clean; neat and tidy",
-                "pinyin_numbered": "gan1jing4",
+                "pinyin-numbered": "gan1jing4",
                 "pinyin": "gānjìng",
                 "simplified": "干净",
                 "traditional": "干淨"
@@ -1034,9 +1034,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "catch cold; (common) cold",
-                "pinyin_numbered": "gan3mao4",
+                "pinyin-numbered": "gan3mao4",
                 "pinyin": "gǎnmào",
                 "simplified": "感冒",
                 "traditional": "感冒"
@@ -1048,9 +1048,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "be interested in",
-                "pinyin_numbered": "gan3 xing4qu4",
+                "pinyin-numbered": "gan3 xing4qu4",
                 "pinyin": "gǎn xìngqù",
                 "simplified": "感兴趣",
                 "traditional": "感興趣"
@@ -1062,9 +1062,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "just now; a moment ago",
-                "pinyin_numbered": "gang1cai2",
+                "pinyin-numbered": "gang1cai2",
                 "pinyin": "gāngcái",
                 "simplified": "刚才",
                 "traditional": "剛才"
@@ -1076,9 +1076,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "height; stature; build",
-                "pinyin_numbered": "ge4zi5",
+                "pinyin-numbered": "ge4zi5",
                 "pinyin": "gèzi",
                 "simplified": "个子",
                 "traditional": "個子"
@@ -1090,9 +1090,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "according to; based on; basis",
-                "pinyin_numbered": "gen1ju4",
+                "pinyin-numbered": "gen1ju4",
                 "pinyin": "gēnjù",
                 "simplified": "根据",
                 "traditional": "根據"
@@ -1104,9 +1104,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to follow; go with; heel",
-                "pinyin_numbered": "gen1",
+                "pinyin-numbered": "gen1",
                 "pinyin": "gēn",
                 "simplified": "跟",
                 "traditional": "跟"
@@ -1118,9 +1118,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "more; even more",
-                "pinyin_numbered": "geng4",
+                "pinyin-numbered": "geng4",
                 "pinyin": "gèng",
                 "simplified": "更",
                 "traditional": "更"
@@ -1132,9 +1132,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "kilogram",
-                "pinyin_numbered": "gong1jin1",
+                "pinyin-numbered": "gong1jin1",
                 "pinyin": "gōngjīn",
                 "simplified": "公斤",
                 "traditional": "公斤"
@@ -1146,9 +1146,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "public park",
-                "pinyin_numbered": "gong1yuan2",
+                "pinyin-numbered": "gong1yuan2",
                 "pinyin": "gōngyuán",
                 "simplified": "公园",
                 "traditional": "公園"
@@ -1160,9 +1160,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "story; tale",
-                "pinyin_numbered": "gu4shi5",
+                "pinyin-numbered": "gu4shi5",
                 "pinyin": "gùshi",
                 "simplified": "故事",
                 "traditional": "故事"
@@ -1174,9 +1174,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "windy; to blow (wind)",
-                "pinyin_numbered": "gua1feng1",
+                "pinyin-numbered": "gua1feng1",
                 "pinyin": "guāfēng",
                 "simplified": "刮风",
                 "traditional": "刮風"
@@ -1188,9 +1188,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to close; shut; concern; relationship; turn off; mountain pass",
-                "pinyin_numbered": "guan1",
+                "pinyin-numbered": "guan1",
                 "pinyin": "guān",
                 "simplified": "关",
                 "traditional": "關"
@@ -1202,9 +1202,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "relation; to concern",
-                "pinyin_numbered": "guan1xi5",
+                "pinyin-numbered": "guan1xi5",
                 "pinyin": "guānxi",
                 "simplified": "关系",
                 "traditional": "關系"
@@ -1216,9 +1216,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "concerned about/with",
-                "pinyin_numbered": "guan1xin1",
+                "pinyin-numbered": "guan1xin1",
                 "pinyin": "guānxīn",
                 "simplified": "关心",
                 "traditional": "關心"
@@ -1230,9 +1230,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "about; regarding; concerning",
-                "pinyin_numbered": "guan1yu2",
+                "pinyin-numbered": "guan1yu2",
                 "pinyin": "guānyú",
                 "simplified": "关于",
                 "traditional": "關於"
@@ -1244,9 +1244,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "country; state; nation",
-                "pinyin_numbered": "guo2jia1",
+                "pinyin-numbered": "guo2jia1",
                 "pinyin": "guójiā",
                 "simplified": "国家",
                 "traditional": "國家"
@@ -1258,9 +1258,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to pass; to cross; go over; (indicates a past experience)",
-                "pinyin_numbered": "guo4",
+                "pinyin-numbered": "guo4",
                 "pinyin": "guò",
                 "simplified": "过",
                 "traditional": "過"
@@ -1272,9 +1272,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "in the past; formerly",
-                "pinyin_numbered": "guo4qu4",
+                "pinyin-numbered": "guo4qu4",
                 "pinyin": "guòqù",
                 "simplified": "过去",
                 "traditional": "過去"
@@ -1286,9 +1286,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "or; still; nevertheless; had better",
-                "pinyin_numbered": "hai2shi5",
+                "pinyin-numbered": "hai2shi5",
                 "pinyin": "háishi",
                 "simplified": "还是",
                 "traditional": "還是"
@@ -1300,9 +1300,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "afraid of; to fear",
-                "pinyin_numbered": "hai4pa4",
+                "pinyin-numbered": "hai4pa4",
                 "pinyin": "hàipà",
                 "simplified": "害怕",
                 "traditional": "害怕"
@@ -1314,9 +1314,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "blackboard",
-                "pinyin_numbered": "hei1ban3",
+                "pinyin-numbered": "hei1ban3",
                 "pinyin": "hēibǎn",
                 "simplified": "黑板",
                 "traditional": "黑板"
@@ -1328,9 +1328,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "afterwards; after; later",
-                "pinyin_numbered": "hou4lai2",
+                "pinyin-numbered": "hou4lai2",
                 "pinyin": "hòulái",
                 "simplified": "后来",
                 "traditional": "后來"
@@ -1342,9 +1342,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "passport",
-                "pinyin_numbered": "hu4zhao4",
+                "pinyin-numbered": "hu4zhao4",
                 "pinyin": "hùzhào",
                 "simplified": "护照",
                 "traditional": "護照"
@@ -1356,9 +1356,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "flower; blossom; spend money; cost",
-                "pinyin_numbered": "hua1",
+                "pinyin-numbered": "hua1",
                 "pinyin": "huā",
                 "simplified": "花",
                 "traditional": "花"
@@ -1370,9 +1370,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "draw; picture; painting",
-                "pinyin_numbered": "hua4",
+                "pinyin-numbered": "hua4",
                 "pinyin": "huà",
                 "simplified": "画",
                 "traditional": "畫"
@@ -1384,9 +1384,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "bad; broken",
-                "pinyin_numbered": "huai4",
+                "pinyin-numbered": "huai4",
                 "pinyin": "huài",
                 "simplified": "坏",
                 "traditional": "壞"
@@ -1398,9 +1398,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to welcome; greet",
-                "pinyin_numbered": "huan1ying2",
+                "pinyin-numbered": "huan1ying2",
                 "pinyin": "huānyíng",
                 "simplified": "欢迎",
                 "traditional": "歡迎"
@@ -1412,9 +1412,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "still; yet; in addition; even",
-                "pinyin_numbered": "hai2",
+                "pinyin-numbered": "hai2",
                 "pinyin": "hái",
                 "simplified": "还",
                 "traditional": "還"
@@ -1426,9 +1426,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "environment; surroundings",
-                "pinyin_numbered": "huan2jing4",
+                "pinyin-numbered": "huan2jing4",
                 "pinyin": "huánjìng",
                 "simplified": "环境",
                 "traditional": "環境"
@@ -1440,9 +1440,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "change; to exchange; to barter; to trade",
-                "pinyin_numbered": "huan4",
+                "pinyin-numbered": "huan4",
                 "pinyin": "huàn",
                 "simplified": "换",
                 "traditional": "換"
@@ -1454,9 +1454,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "Yellow River",
-                "pinyin_numbered": "huang2he2",
+                "pinyin-numbered": "huang2he2",
                 "pinyin": "huánghé",
                 "simplified": "黄河",
                 "traditional": "黃河"
@@ -1468,9 +1468,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to reply; to answer",
-                "pinyin_numbered": "hui2da2",
+                "pinyin-numbered": "hui2da2",
                 "pinyin": "huídá",
                 "simplified": "回答",
                 "traditional": "回答"
@@ -1482,9 +1482,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "meeting; conference",
-                "pinyin_numbered": "hui4yi4",
+                "pinyin-numbered": "hui4yi4",
                 "pinyin": "huìyì",
                 "simplified": "会议",
                 "traditional": "會議"
@@ -1496,9 +1496,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "or; possible; maybe; perhaps",
-                "pinyin_numbered": "huo4zhe3",
+                "pinyin-numbered": "huo4zhe3",
                 "pinyin": "huòzhě",
                 "simplified": "或者",
                 "traditional": "或者"
@@ -1510,9 +1510,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "almost",
-                "pinyin_numbered": "ji1hu1",
+                "pinyin-numbered": "ji1hu1",
                 "pinyin": "jīhū",
                 "simplified": "几乎",
                 "traditional": "幾乎"
@@ -1524,9 +1524,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "opportunity; chance; occasion",
-                "pinyin_numbered": "ji1hui4",
+                "pinyin-numbered": "ji1hui4",
                 "pinyin": "jīhuì",
                 "simplified": "机会",
                 "traditional": "機會"
@@ -1538,9 +1538,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "an extreme; pole; very",
-                "pinyin_numbered": "ji2",
+                "pinyin-numbered": "ji2",
                 "pinyin": "jí",
                 "simplified": "极",
                 "traditional": "極"
@@ -1552,9 +1552,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "remember",
-                "pinyin_numbered": "ji4de5",
+                "pinyin-numbered": "ji4de5",
                 "pinyin": "jìde",
                 "simplified": "记得",
                 "traditional": "記得"
@@ -1566,9 +1566,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "season; time; period",
-                "pinyin_numbered": "ji4jie2",
+                "pinyin-numbered": "ji4jie2",
                 "pinyin": "jìjié",
                 "simplified": "季节",
                 "traditional": "季節"
@@ -1580,9 +1580,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to check; examine; inspect",
-                "pinyin_numbered": "jian3cha2",
+                "pinyin-numbered": "jian3cha2",
                 "pinyin": "jiǎnchá",
                 "simplified": "检查",
                 "traditional": "檢查"
@@ -1594,9 +1594,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "simple; not complicated",
-                "pinyin_numbered": "jian3dan1",
+                "pinyin-numbered": "jian3dan1",
                 "pinyin": "jiǎndān",
                 "simplified": "简单",
                 "traditional": "簡單"
@@ -1608,9 +1608,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "meet/see somebody; meeting",
-                "pinyin_numbered": "jian4mian4",
+                "pinyin-numbered": "jian4mian4",
                 "pinyin": "jiànmiàn",
                 "simplified": "见面",
                 "traditional": "見面"
@@ -1622,9 +1622,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "health; healthy",
-                "pinyin_numbered": "jian4kang1",
+                "pinyin-numbered": "jian4kang1",
                 "pinyin": "jiànkāng",
                 "simplified": "健康",
                 "traditional": "健康"
@@ -1636,9 +1636,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to talk; to lecture; to explain; a speech",
-                "pinyin_numbered": "jiang3",
+                "pinyin-numbered": "jiang3",
                 "pinyin": "jiǎng",
                 "simplified": "讲",
                 "traditional": "講"
@@ -1650,9 +1650,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "teach; instruct | religion; teaching",
-                "pinyin_numbered": "jiao1, jiao4",
+                "pinyin-numbered": "jiao1, jiao4",
                 "pinyin": "jiāo, jiào",
                 "simplified": "教",
                 "traditional": "教"
@@ -1664,9 +1664,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "horn; angle; unit of money (1/10 yuan); corner (Kangxi radical 148) | role (theater)",
-                "pinyin_numbered": "jiao3, jue2",
+                "pinyin-numbered": "jiao3, jue2",
                 "pinyin": "jiǎo, jué",
                 "simplified": "角",
                 "traditional": "角"
@@ -1678,9 +1678,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "foot (body part)",
-                "pinyin_numbered": "jiao3",
+                "pinyin-numbered": "jiao3",
                 "pinyin": "jiǎo",
                 "simplified": "脚",
                 "traditional": "腳"
@@ -1692,9 +1692,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "connect; to meet; to pick up (somebody); to receive",
-                "pinyin_numbered": "jie1",
+                "pinyin-numbered": "jie1",
                 "pinyin": "jiē",
                 "simplified": "接",
                 "traditional": "接"
@@ -1706,9 +1706,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "street",
-                "pinyin_numbered": "jie1dao4",
+                "pinyin-numbered": "jie1dao4",
                 "pinyin": "jiēdào",
                 "simplified": "街道",
                 "traditional": "街道"
@@ -1720,9 +1720,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "program; item (on a program)",
-                "pinyin_numbered": "jie2mu4",
+                "pinyin-numbered": "jie2mu4",
                 "pinyin": "jiémù",
                 "simplified": "节目",
                 "traditional": "節目"
@@ -1734,9 +1734,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "holiday; festival",
-                "pinyin_numbered": "jie2ri4",
+                "pinyin-numbered": "jie2ri4",
                 "pinyin": "jiérì",
                 "simplified": "节日",
                 "traditional": "節日"
@@ -1748,9 +1748,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "get married",
-                "pinyin_numbered": "jie2hun1",
+                "pinyin-numbered": "jie2hun1",
                 "pinyin": "jiéhūn",
                 "simplified": "结婚",
                 "traditional": "結婚"
@@ -1762,9 +1762,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to end; to finish; conclude",
-                "pinyin_numbered": "jie2shu4",
+                "pinyin-numbered": "jie2shu4",
                 "pinyin": "jiéshù",
                 "simplified": "结束",
                 "traditional": "結束"
@@ -1776,9 +1776,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "settle (a dispute); resolve; solve",
-                "pinyin_numbered": "jie3jue2",
+                "pinyin-numbered": "jie3jue2",
                 "pinyin": "jiějué",
                 "simplified": "解决",
                 "traditional": "解決"
@@ -1790,9 +1790,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "lend; borrow; excuse",
-                "pinyin_numbered": "jie4",
+                "pinyin-numbered": "jie4",
                 "pinyin": "jiè",
                 "simplified": "借",
                 "traditional": "借"
@@ -1804,9 +1804,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "often; frequently; daily",
-                "pinyin_numbered": "jing1chang2",
+                "pinyin-numbered": "jing1chang2",
                 "pinyin": "jīngcháng",
                 "simplified": "经常",
                 "traditional": "經常"
@@ -1818,9 +1818,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to pass; go through; as a result of",
-                "pinyin_numbered": "jing1guo4",
+                "pinyin-numbered": "jing1guo4",
                 "pinyin": "jīngguò",
                 "simplified": "经过",
                 "traditional": "經過"
@@ -1832,9 +1832,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "manager; director",
-                "pinyin_numbered": "jing1li3",
+                "pinyin-numbered": "jing1li3",
                 "pinyin": "jīnglǐ",
                 "simplified": "经理",
                 "traditional": "經理"
@@ -1846,9 +1846,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "long (time)",
-                "pinyin_numbered": "jiu3",
+                "pinyin-numbered": "jiu3",
                 "pinyin": "jiǔ",
                 "simplified": "久",
                 "traditional": "久"
@@ -1860,9 +1860,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "old; past; used",
-                "pinyin_numbered": "jiu4",
+                "pinyin-numbered": "jiu4",
                 "pinyin": "jiù",
                 "simplified": "旧",
                 "traditional": "舊"
@@ -1874,9 +1874,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "sentence",
-                "pinyin_numbered": "ju4zi5",
+                "pinyin-numbered": "ju4zi5",
                 "pinyin": "jùzi",
                 "simplified": "句子",
                 "traditional": "句子"
@@ -1888,9 +1888,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "decide; resolve",
-                "pinyin_numbered": "jue2ding4",
+                "pinyin-numbered": "jue2ding4",
                 "pinyin": "juédìng",
                 "simplified": "决定",
                 "traditional": "決定"
@@ -1902,9 +1902,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "cute; lovely",
-                "pinyin_numbered": "ke3'ai4",
+                "pinyin-numbered": "ke3'ai4",
                 "pinyin": "kě'ài",
                 "simplified": "可爱",
                 "traditional": "可愛"
@@ -1916,9 +1916,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "thirsty",
-                "pinyin_numbered": "ke3",
+                "pinyin-numbered": "ke3",
                 "pinyin": "kě",
                 "simplified": "渴",
                 "traditional": "渴"
@@ -1930,9 +1930,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "quarter (hour); (mw for short time intervals); carve; to cut",
-                "pinyin_numbered": "ke4",
+                "pinyin-numbered": "ke4",
                 "pinyin": "kè",
                 "simplified": "刻",
                 "traditional": "刻"
@@ -1944,9 +1944,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "guest; customer",
-                "pinyin_numbered": "ke4ren2",
+                "pinyin-numbered": "ke4ren2",
                 "pinyin": "kèrén",
                 "simplified": "客人",
                 "traditional": "客人"
@@ -1958,9 +1958,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "air conditioning",
-                "pinyin_numbered": "kong1tiao2",
+                "pinyin-numbered": "kong1tiao2",
                 "pinyin": "kōngtiáo",
                 "simplified": "空调",
                 "traditional": "空調"
@@ -1972,9 +1972,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "mouth (Kangxi radical 30)",
-                "pinyin_numbered": "kou3",
+                "pinyin-numbered": "kou3",
                 "pinyin": "kǒu",
                 "simplified": "口",
                 "traditional": "口"
@@ -1986,9 +1986,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "cry; weep",
-                "pinyin_numbered": "ku1",
+                "pinyin-numbered": "ku1",
                 "pinyin": "kū",
                 "simplified": "哭",
                 "traditional": "哭"
@@ -2000,9 +2000,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "pants; trousers",
-                "pinyin_numbered": "ku4zi5",
+                "pinyin-numbered": "ku4zi5",
                 "pinyin": "kùzi",
                 "simplified": "裤子",
                 "traditional": "褲子"
@@ -2014,9 +2014,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "chopsticks",
-                "pinyin_numbered": "kuai4zi5",
+                "pinyin-numbered": "kuai4zi5",
                 "pinyin": "kuàizi",
                 "simplified": "筷子",
                 "traditional": "筷子"
@@ -2028,9 +2028,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "blue",
-                "pinyin_numbered": "lan2",
+                "pinyin-numbered": "lan2",
                 "pinyin": "lán",
                 "simplified": "蓝",
                 "traditional": "藍"
@@ -2042,9 +2042,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "old; aged; tough; often (Kangxi radical 125)",
-                "pinyin_numbered": "lao3",
+                "pinyin-numbered": "lao3",
                 "pinyin": "lǎo",
                 "simplified": "老",
                 "traditional": "老"
@@ -2056,9 +2056,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "leave; depart",
-                "pinyin_numbered": "li2kai1",
+                "pinyin-numbered": "li2kai1",
                 "pinyin": "líkāi",
                 "simplified": "离开",
                 "traditional": "離開"
@@ -2070,9 +2070,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "gift; present",
-                "pinyin_numbered": "li3wu4",
+                "pinyin-numbered": "li3wu4",
                 "pinyin": "lǐwù",
                 "simplified": "礼物",
                 "traditional": "禮物"
@@ -2084,9 +2084,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "history",
-                "pinyin_numbered": "li4shi3",
+                "pinyin-numbered": "li4shi3",
                 "pinyin": "lìshǐ",
                 "simplified": "历史",
                 "traditional": "歷史"
@@ -2098,9 +2098,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "face",
-                "pinyin_numbered": "lian3",
+                "pinyin-numbered": "lian3",
                 "pinyin": "liǎn",
                 "simplified": "脸",
                 "traditional": "臉"
@@ -2112,9 +2112,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "practice; exercise",
-                "pinyin_numbered": "lian4xi2",
+                "pinyin-numbered": "lian4xi2",
                 "pinyin": "liànxí",
                 "simplified": "练习",
                 "traditional": "練習"
@@ -2126,9 +2126,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "(mw for vehicles)",
-                "pinyin_numbered": "liang4",
+                "pinyin-numbered": "liang4",
                 "pinyin": "liàng",
                 "simplified": "辆",
                 "traditional": "輛"
@@ -2140,9 +2140,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to chat",
-                "pinyin_numbered": "liao2tian1",
+                "pinyin-numbered": "liao2tian1",
                 "pinyin": "liáotiān",
                 "simplified": "聊天",
                 "traditional": "聊天"
@@ -2154,9 +2154,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "comprehend; understand; know; find out",
-                "pinyin_numbered": "liao3jie3",
+                "pinyin-numbered": "liao3jie3",
                 "pinyin": "liǎojiě",
                 "simplified": "了解",
                 "traditional": "了解"
@@ -2168,9 +2168,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "neighbor",
-                "pinyin_numbered": "lin2ju1",
+                "pinyin-numbered": "lin2ju1",
                 "pinyin": "línjū",
                 "simplified": "邻居",
                 "traditional": "鄰居"
@@ -2182,9 +2182,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "study abroad",
-                "pinyin_numbered": "liu2xue2",
+                "pinyin-numbered": "liu2xue2",
                 "pinyin": "liúxué",
                 "simplified": "留学",
                 "traditional": "留學"
@@ -2196,9 +2196,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
-                "english": "story; floor; (multi_story) building",
-                "pinyin_numbered": "lou2",
+            "translation-data": {
+                "english": "story; floor; (multi-story) building",
+                "pinyin-numbered": "lou2",
                 "pinyin": "lóu",
                 "simplified": "楼",
                 "traditional": "樓"
@@ -2210,9 +2210,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "green",
-                "pinyin_numbered": "lv4",
+                "pinyin-numbered": "lv4",
                 "pinyin": "lǜ",
                 "simplified": "绿",
                 "traditional": "綠"
@@ -2224,9 +2224,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "horse (Kangxi radical 187)",
-                "pinyin_numbered": "ma3",
+                "pinyin-numbered": "ma3",
                 "pinyin": "mǎ",
                 "simplified": "马",
                 "traditional": "馬"
@@ -2238,9 +2238,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "at once; immediately; right away",
-                "pinyin_numbered": "ma3shang4",
+                "pinyin-numbered": "ma3shang4",
                 "pinyin": "mǎshàng",
                 "simplified": "马上",
                 "traditional": "馬上"
@@ -2252,9 +2252,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "satisfied; pleased",
-                "pinyin_numbered": "man3yi4",
+                "pinyin-numbered": "man3yi4",
                 "pinyin": "mǎnyì",
                 "simplified": "满意",
                 "traditional": "滿意"
@@ -2266,9 +2266,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "hat; cap",
-                "pinyin_numbered": "mao4zi5",
+                "pinyin-numbered": "mao4zi5",
                 "pinyin": "màozi",
                 "simplified": "帽子",
                 "traditional": "帽子"
@@ -2280,9 +2280,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "rice; meter (Kangxi radical 119)",
-                "pinyin_numbered": "mi3",
+                "pinyin-numbered": "mi3",
                 "pinyin": "mǐ",
                 "simplified": "米",
                 "traditional": "米"
@@ -2294,9 +2294,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "bread",
-                "pinyin_numbered": "mian4bao1",
+                "pinyin-numbered": "mian4bao1",
                 "pinyin": "miànbāo",
                 "simplified": "面包",
                 "traditional": "面包"
@@ -2308,9 +2308,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "clear; obvious; understand; explicit",
-                "pinyin_numbered": "ming2bai5",
+                "pinyin-numbered": "ming2bai5",
                 "pinyin": "míngbai",
                 "simplified": "明白",
                 "traditional": "明白"
@@ -2322,9 +2322,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "carry in your hand; seize; to catch",
-                "pinyin_numbered": "na2",
+                "pinyin-numbered": "na2",
                 "pinyin": "ná",
                 "simplified": "拿",
                 "traditional": "拿"
@@ -2336,9 +2336,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "grandma; (informal) paternal grandmother",
-                "pinyin_numbered": "nai3nai5",
+                "pinyin-numbered": "nai3nai5",
                 "pinyin": "nǎinai",
                 "simplified": "奶奶",
                 "traditional": "奶奶"
@@ -2350,9 +2350,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "South",
-                "pinyin_numbered": "nan2",
+                "pinyin-numbered": "nan2",
                 "pinyin": "nán",
                 "simplified": "南",
                 "traditional": "南"
@@ -2364,9 +2364,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "difficult",
-                "pinyin_numbered": "nan2",
+                "pinyin-numbered": "nan2",
                 "pinyin": "nán",
                 "simplified": "难",
                 "traditional": "難"
@@ -2378,9 +2378,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "be grieved; be sad; have a hard time",
-                "pinyin_numbered": "nan2guo4",
+                "pinyin-numbered": "nan2guo4",
                 "pinyin": "nánguò",
                 "simplified": "难过",
                 "traditional": "難過"
@@ -2392,9 +2392,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "grade; year (in school)",
-                "pinyin_numbered": "nian2ji2",
+                "pinyin-numbered": "nian2ji2",
                 "pinyin": "niánjí",
                 "simplified": "年级",
                 "traditional": "年級"
@@ -2406,9 +2406,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "young",
-                "pinyin_numbered": "nian2qing1",
+                "pinyin-numbered": "nian2qing1",
                 "pinyin": "niánqīng",
                 "simplified": "年轻",
                 "traditional": "年輕"
@@ -2420,9 +2420,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "bird (Kangxi radical 196)",
-                "pinyin_numbered": "niao3",
+                "pinyin-numbered": "niao3",
                 "pinyin": "niǎo",
                 "simplified": "鸟",
                 "traditional": "鳥"
@@ -2434,9 +2434,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to work hard; to strive",
-                "pinyin_numbered": "nu3li4",
+                "pinyin-numbered": "nu3li4",
                 "pinyin": "nǔlì",
                 "simplified": "努力",
                 "traditional": "努力"
@@ -2448,9 +2448,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "mountain climbing",
-                "pinyin_numbered": "pa2shan1",
+                "pinyin-numbered": "pa2shan1",
                 "pinyin": "páshān",
                 "simplified": "爬山",
                 "traditional": "爬山"
@@ -2462,9 +2462,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "plate; dish; tray",
-                "pinyin_numbered": "pan2zi5",
+                "pinyin-numbered": "pan2zi5",
                 "pinyin": "pánzi",
                 "simplified": "盘子",
                 "traditional": "盤子"
@@ -2476,9 +2476,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "fat; plump",
-                "pinyin_numbered": "pang4",
+                "pinyin-numbered": "pang4",
                 "pinyin": "pàng",
                 "simplified": "胖",
                 "traditional": "胖"
@@ -2490,9 +2490,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "leather shoes",
-                "pinyin_numbered": "pi2xie2",
+                "pinyin-numbered": "pi2xie2",
                 "pinyin": "píxié",
                 "simplified": "皮鞋",
                 "traditional": "皮鞋"
@@ -2504,9 +2504,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "beer",
-                "pinyin_numbered": "pi2jiu3",
+                "pinyin-numbered": "pi2jiu3",
                 "pinyin": "píjiǔ",
                 "simplified": "啤酒",
                 "traditional": "啤酒"
@@ -2518,9 +2518,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "bottle",
-                "pinyin_numbered": "ping2zi5",
+                "pinyin-numbered": "ping2zi5",
                 "pinyin": "píngzi",
                 "simplified": "瓶子",
                 "traditional": "瓶子"
@@ -2532,9 +2532,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "actually; in fact",
-                "pinyin_numbered": "qi2shi2",
+                "pinyin-numbered": "qi2shi2",
                 "pinyin": "qíshí",
                 "simplified": "其实",
                 "traditional": "其實"
@@ -2546,9 +2546,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "other; else",
-                "pinyin_numbered": "qi2ta1",
+                "pinyin-numbered": "qi2ta1",
                 "pinyin": "qítā",
                 "simplified": "其他",
                 "traditional": "其他"
@@ -2560,9 +2560,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "strange; odd",
-                "pinyin_numbered": "qi2guai4",
+                "pinyin-numbered": "qi2guai4",
                 "pinyin": "qíguài",
                 "simplified": "奇怪",
                 "traditional": "奇怪"
@@ -2574,9 +2574,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to ride (an animal or bike); to sit astride",
-                "pinyin_numbered": "qi2",
+                "pinyin-numbered": "qi2",
                 "pinyin": "qí",
                 "simplified": "骑",
                 "traditional": "騎"
@@ -2588,9 +2588,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "take off (in an airplane); liftoff",
-                "pinyin_numbered": "qi3fei1",
+                "pinyin-numbered": "qi3fei1",
                 "pinyin": "qǐfēi",
                 "simplified": "起飞",
                 "traditional": "起飛"
@@ -2602,9 +2602,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "(beginning or continuing an action); to rise; get up (from bed)",
-                "pinyin_numbered": "qi3lai5",
+                "pinyin-numbered": "qi3lai5",
                 "pinyin": "qǐlai",
                 "simplified": "起来",
                 "traditional": "起來"
@@ -2616,9 +2616,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "clear; distinct; be clear about",
-                "pinyin_numbered": "qing1chu5",
+                "pinyin-numbered": "qing1chu5",
                 "pinyin": "qīngchu",
                 "simplified": "清楚",
                 "traditional": "清楚"
@@ -2630,9 +2630,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to ask for time off",
-                "pinyin_numbered": "qing3jia4",
+                "pinyin-numbered": "qing3jia4",
                 "pinyin": "qǐngjià",
                 "simplified": "请假",
                 "traditional": "請假"
@@ -2644,9 +2644,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "autumn; fall; harvest time",
-                "pinyin_numbered": "qiu1",
+                "pinyin-numbered": "qiu1",
                 "pinyin": "qiū",
                 "simplified": "秋",
                 "traditional": "秋"
@@ -2658,9 +2658,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "skirt",
-                "pinyin_numbered": "qun2zi5",
+                "pinyin-numbered": "qun2zi5",
                 "pinyin": "qúnzi",
                 "simplified": "裙子",
                 "traditional": "裙子"
@@ -2672,9 +2672,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "then; afterwards",
-                "pinyin_numbered": "ran2hou4",
+                "pinyin-numbered": "ran2hou4",
                 "pinyin": "ránhòu",
                 "simplified": "然后",
                 "traditional": "然后"
@@ -2686,9 +2686,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "cordial; warm; enthusiastic",
-                "pinyin_numbered": "re4qing2",
+                "pinyin-numbered": "re4qing2",
                 "pinyin": "rèqíng",
                 "simplified": "热情",
                 "traditional": "熱情"
@@ -2700,9 +2700,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "believe; think that",
-                "pinyin_numbered": "ren4wei2",
+                "pinyin-numbered": "ren4wei2",
                 "pinyin": "rènwéi",
                 "simplified": "认为",
                 "traditional": "認為"
@@ -2714,9 +2714,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "serious; earnest; take seriously",
-                "pinyin_numbered": "ren4zhen1",
+                "pinyin-numbered": "ren4zhen1",
                 "pinyin": "rènzhēn",
                 "simplified": "认真",
                 "traditional": "認真"
@@ -2728,9 +2728,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "easy; likely; liable (to)",
-                "pinyin_numbered": "rong2yi4",
+                "pinyin-numbered": "rong2yi4",
                 "pinyin": "róngyì",
                 "simplified": "容易",
                 "traditional": "容易"
@@ -2742,9 +2742,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "if; in the event that",
-                "pinyin_numbered": "ru2guo3",
+                "pinyin-numbered": "ru2guo3",
                 "pinyin": "rúguǒ",
                 "simplified": "如果",
                 "traditional": "如果"
@@ -2756,9 +2756,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "umbrella; parasol",
-                "pinyin_numbered": "san3",
+                "pinyin-numbered": "san3",
                 "pinyin": "sǎn",
                 "simplified": "伞",
                 "traditional": "傘"
@@ -2770,9 +2770,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to surf the web; to go online",
-                "pinyin_numbered": "shang4wang3",
+                "pinyin-numbered": "shang4wang3",
                 "pinyin": "shàngwǎng",
                 "simplified": "上网",
                 "traditional": "上網"
@@ -2784,9 +2784,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "angry; mad",
-                "pinyin_numbered": "sheng1qi4",
+                "pinyin-numbered": "sheng1qi4",
                 "pinyin": "shēngqì",
                 "simplified": "生气",
                 "traditional": "生氣"
@@ -2798,9 +2798,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "sound; voice",
-                "pinyin_numbered": "sheng1yin1",
+                "pinyin-numbered": "sheng1yin1",
                 "pinyin": "shēngyīn",
                 "simplified": "声音",
                 "traditional": "聲音"
@@ -2812,9 +2812,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "world",
-                "pinyin_numbered": "shi4jie4",
+                "pinyin-numbered": "shi4jie4",
                 "pinyin": "shìjiè",
                 "simplified": "世界",
                 "traditional": "世界"
@@ -2826,9 +2826,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to try; to test; examination",
-                "pinyin_numbered": "shi4",
+                "pinyin-numbered": "shi4",
                 "pinyin": "shì",
                 "simplified": "试",
                 "traditional": "試"
@@ -2840,9 +2840,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "thin; tight; lean",
-                "pinyin_numbered": "shou4",
+                "pinyin-numbered": "shou4",
                 "pinyin": "shòu",
                 "simplified": "瘦",
                 "traditional": "瘦"
@@ -2854,9 +2854,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "(informal) father's younger brother; uncle",
-                "pinyin_numbered": "shu1shu5",
+                "pinyin-numbered": "shu1shu5",
                 "pinyin": "shūshu",
                 "simplified": "叔叔",
                 "traditional": "叔叔"
@@ -2868,9 +2868,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "comfortable; feeling well",
-                "pinyin_numbered": "shu1fu5",
+                "pinyin-numbered": "shu1fu5",
                 "pinyin": "shūfu",
                 "simplified": "舒服",
                 "traditional": "舒服"
@@ -2882,9 +2882,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "tree",
-                "pinyin_numbered": "shu4",
+                "pinyin-numbered": "shu4",
                 "pinyin": "shù",
                 "simplified": "树",
                 "traditional": "樹"
@@ -2896,9 +2896,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "mathematics",
-                "pinyin_numbered": "shu4xue2",
+                "pinyin-numbered": "shu4xue2",
                 "pinyin": "shùxué",
                 "simplified": "数学",
                 "traditional": "數學"
@@ -2910,9 +2910,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "brush one's teeth",
-                "pinyin_numbered": "shua1ya2",
+                "pinyin-numbered": "shua1ya2",
                 "pinyin": "shuāyá",
                 "simplified": "刷牙",
                 "traditional": "刷牙"
@@ -2924,9 +2924,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "two; double; (mw for pairs)",
-                "pinyin_numbered": "shuang1",
+                "pinyin-numbered": "shuang1",
                 "pinyin": "shuāng",
                 "simplified": "双",
                 "traditional": "雙"
@@ -2938,9 +2938,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "level; standard; horizontal",
-                "pinyin_numbered": "shui3ping2",
+                "pinyin-numbered": "shui3ping2",
                 "pinyin": "shuǐpíng",
                 "simplified": "水平",
                 "traditional": "水平"
@@ -2952,9 +2952,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "driver; chauffeur",
-                "pinyin_numbered": "si1ji1",
+                "pinyin-numbered": "si1ji1",
                 "pinyin": "sījī",
                 "simplified": "司机",
                 "traditional": "司機"
@@ -2966,9 +2966,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "the sun",
-                "pinyin_numbered": "tai4yang2",
+                "pinyin-numbered": "tai4yang2",
                 "pinyin": "tàiyáng",
                 "simplified": "太阳",
                 "traditional": "太陽"
@@ -2980,9 +2980,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "special; especially; particular",
-                "pinyin_numbered": "te4bie2",
+                "pinyin-numbered": "te4bie2",
                 "pinyin": "tèbié",
                 "simplified": "特别",
                 "traditional": "特別"
@@ -2994,9 +2994,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "ache; sore; (it) hurts; love fondly",
-                "pinyin_numbered": "teng2",
+                "pinyin-numbered": "teng2",
                 "pinyin": "téng",
                 "simplified": "疼",
                 "traditional": "疼"
@@ -3008,9 +3008,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to raise; heighten; improve",
-                "pinyin_numbered": "ti2gao1",
+                "pinyin-numbered": "ti2gao1",
                 "pinyin": "tígāo",
                 "simplified": "提高",
                 "traditional": "提高"
@@ -3022,9 +3022,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "physical training; sports",
-                "pinyin_numbered": "ti3yu4",
+                "pinyin-numbered": "ti3yu4",
                 "pinyin": "tǐyù",
                 "simplified": "体育",
                 "traditional": "體育"
@@ -3036,9 +3036,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "sweet",
-                "pinyin_numbered": "tian2",
+                "pinyin-numbered": "tian2",
                 "pinyin": "tián",
                 "simplified": "甜",
                 "traditional": "甜"
@@ -3050,9 +3050,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "strip; (mw for long thin objects); item",
-                "pinyin_numbered": "tiao2",
+                "pinyin-numbered": "tiao2",
                 "pinyin": "tiáo",
                 "simplified": "条",
                 "traditional": "條"
@@ -3064,9 +3064,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
-                "english": "colleague; co_worker",
-                "pinyin_numbered": "tong2shi4",
+            "translation-data": {
+                "english": "colleague; co-worker",
+                "pinyin-numbered": "tong2shi4",
                 "pinyin": "tóngshì",
                 "simplified": "同事",
                 "traditional": "同事"
@@ -3078,9 +3078,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "agree; to consent; approve",
-                "pinyin_numbered": "tong2yi4",
+                "pinyin-numbered": "tong2yi4",
                 "pinyin": "tóngyì",
                 "simplified": "同意",
                 "traditional": "同意"
@@ -3092,9 +3092,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "hair (on the head)",
-                "pinyin_numbered": "tou2fa5",
+                "pinyin-numbered": "tou2fa5",
                 "pinyin": "tóufa",
                 "simplified": "头发",
                 "traditional": "頭發"
@@ -3106,9 +3106,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "sudden; abrupt",
-                "pinyin_numbered": "tu1ran2",
+                "pinyin-numbered": "tu1ran2",
                 "pinyin": "tūrán",
                 "simplified": "突然",
                 "traditional": "突然"
@@ -3120,9 +3120,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "library",
-                "pinyin_numbered": "tu2shu1guan3",
+                "pinyin-numbered": "tu2shu1guan3",
                 "pinyin": "túshūguǎn",
                 "simplified": "图书馆",
                 "traditional": "圖書館"
@@ -3134,9 +3134,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "leg",
-                "pinyin_numbered": "tui3",
+                "pinyin-numbered": "tui3",
                 "pinyin": "tuǐ",
                 "simplified": "腿",
                 "traditional": "腿"
@@ -3148,9 +3148,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to complete; accomplish; to fulfill",
-                "pinyin_numbered": "wan2cheng2",
+                "pinyin-numbered": "wan2cheng2",
                 "pinyin": "wánchéng",
                 "simplified": "完成",
                 "traditional": "完成"
@@ -3162,9 +3162,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "bowl; cup",
-                "pinyin_numbered": "wan3",
+                "pinyin-numbered": "wan3",
                 "pinyin": "wǎn",
                 "simplified": "碗",
                 "traditional": "碗"
@@ -3176,9 +3176,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "ten thousand",
-                "pinyin_numbered": "wan4",
+                "pinyin-numbered": "wan4",
                 "pinyin": "wàn",
                 "simplified": "万",
                 "traditional": "萬"
@@ -3190,9 +3190,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "forget",
-                "pinyin_numbered": "wang4ji4",
+                "pinyin-numbered": "wang4ji4",
                 "pinyin": "wàngjì",
                 "simplified": "忘记",
                 "traditional": "忘記"
@@ -3204,9 +3204,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "for; because of; to; for the sake of",
-                "pinyin_numbered": "wei4",
+                "pinyin-numbered": "wei4",
                 "pinyin": "wèi",
                 "simplified": "为",
                 "traditional": "為"
@@ -3218,9 +3218,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "in order to; for the sake of; for the purpose of",
-                "pinyin_numbered": "wei4le5",
+                "pinyin-numbered": "wei4le5",
                 "pinyin": "wèile",
                 "simplified": "为了",
                 "traditional": "為了"
@@ -3232,9 +3232,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "position; location; (polite mw for people)",
-                "pinyin_numbered": "wei4",
+                "pinyin-numbered": "wei4",
                 "pinyin": "wèi",
                 "simplified": "位",
                 "traditional": "位"
@@ -3246,9 +3246,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "culture; civilization",
-                "pinyin_numbered": "wen2hua4",
+                "pinyin-numbered": "wen2hua4",
                 "pinyin": "wénhuà",
                 "simplified": "文化",
                 "traditional": "文化"
@@ -3260,9 +3260,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "West (Kangxi radical 146)",
-                "pinyin_numbered": "xi1",
+                "pinyin-numbered": "xi1",
                 "pinyin": "xī",
                 "simplified": "西",
                 "traditional": "西"
@@ -3274,9 +3274,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "habit; be accustomed to; usual practice",
-                "pinyin_numbered": "xi2guan4",
+                "pinyin-numbered": "xi2guan4",
                 "pinyin": "xíguàn",
                 "simplified": "习惯",
                 "traditional": "習慣"
@@ -3288,9 +3288,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "toilet; lavatory; washroom",
-                "pinyin_numbered": "xi3shou3jian1",
+                "pinyin-numbered": "xi3shou3jian1",
                 "pinyin": "xǐshǒujiān",
                 "simplified": "洗手间",
                 "traditional": "洗手間"
@@ -3302,9 +3302,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "bathe; take a bath or shower; bath or shower",
-                "pinyin_numbered": "xi3zao3",
+                "pinyin-numbered": "xi3zao3",
                 "pinyin": "xǐzǎo",
                 "simplified": "洗澡",
                 "traditional": "洗澡"
@@ -3316,9 +3316,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "summer",
-                "pinyin_numbered": "xia4",
+                "pinyin-numbered": "xia4",
                 "pinyin": "xià",
                 "simplified": "夏",
                 "traditional": "夏"
@@ -3330,9 +3330,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "first; early; before",
-                "pinyin_numbered": "xian1",
+                "pinyin-numbered": "xian1",
                 "pinyin": "xiān",
                 "simplified": "先",
                 "traditional": "先"
@@ -3344,9 +3344,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "believe (sb.); be convinced of",
-                "pinyin_numbered": "xiang1xin4",
+                "pinyin-numbered": "xiang1xin4",
                 "pinyin": "xiāngxìn",
                 "simplified": "相信",
                 "traditional": "相信"
@@ -3358,9 +3358,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "banana",
-                "pinyin_numbered": "xiang1jiao1",
+                "pinyin-numbered": "xiang1jiao1",
                 "pinyin": "xiāngjiāo",
                 "simplified": "香蕉",
                 "traditional": "香蕉"
@@ -3372,9 +3372,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "direction; towards; to turn; to face",
-                "pinyin_numbered": "xiang4",
+                "pinyin-numbered": "xiang4",
                 "pinyin": "xiàng",
                 "simplified": "向",
                 "traditional": "向"
@@ -3386,9 +3386,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "be like; resemble; appearance; appear",
-                "pinyin_numbered": "xiang4",
+                "pinyin-numbered": "xiang4",
                 "pinyin": "xiàng",
                 "simplified": "像",
                 "traditional": "像"
@@ -3400,9 +3400,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "be careful",
-                "pinyin_numbered": "xiao3xin1",
+                "pinyin-numbered": "xiao3xin1",
                 "pinyin": "xiǎoxīn",
                 "simplified": "小心",
                 "traditional": "小心"
@@ -3414,9 +3414,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "principal (of school, college or university); president; headmaster",
-                "pinyin_numbered": "xiao4zhang3",
+                "pinyin-numbered": "xiao4zhang3",
                 "pinyin": "xiàozhǎng",
                 "simplified": "校长",
                 "traditional": "校長"
@@ -3428,9 +3428,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "news",
-                "pinyin_numbered": "xin1wen2",
+                "pinyin-numbered": "xin1wen2",
                 "pinyin": "xīnwén",
                 "simplified": "新闻",
                 "traditional": "新聞"
@@ -3442,9 +3442,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "fresh (experience, food, etc.); new; novel",
-                "pinyin_numbered": "xin1xian1",
+                "pinyin-numbered": "xin1xian1",
                 "pinyin": "xīnxiān",
                 "simplified": "新鲜",
                 "traditional": "新鮮"
@@ -3456,9 +3456,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "credit card",
-                "pinyin_numbered": "xin4yong4ka3",
+                "pinyin-numbered": "xin4yong4ka3",
                 "pinyin": "xìnyòngkǎ",
                 "simplified": "信用卡",
                 "traditional": "信用卡"
@@ -3470,9 +3470,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "trunk; suitcase",
-                "pinyin_numbered": "xing2li3xiang1",
+                "pinyin-numbered": "xing2li3xiang1",
                 "pinyin": "xínglǐxiāng",
                 "simplified": "行李箱",
                 "traditional": "行李箱"
@@ -3484,9 +3484,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "panda",
-                "pinyin_numbered": "xiong2mao1",
+                "pinyin-numbered": "xiong2mao1",
                 "pinyin": "xióngmāo",
                 "simplified": "熊猫",
                 "traditional": "熊貓"
@@ -3498,9 +3498,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to need; to want; to demand",
-                "pinyin_numbered": "xu1yao4",
+                "pinyin-numbered": "xu1yao4",
                 "pinyin": "xūyào",
                 "simplified": "需要",
                 "traditional": "需要"
@@ -3512,9 +3512,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "select; to pick; choose",
-                "pinyin_numbered": "xuan3ze2",
+                "pinyin-numbered": "xuan3ze2",
                 "pinyin": "xuǎnzé",
                 "simplified": "选择",
                 "traditional": "選擇"
@@ -3526,9 +3526,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to request; to demand; requirement",
-                "pinyin_numbered": "yao1qiu2",
+                "pinyin-numbered": "yao1qiu2",
                 "pinyin": "yāoqiú",
                 "simplified": "要求",
                 "traditional": "要求"
@@ -3540,9 +3540,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "(informal) father's father; paternal grandfather",
-                "pinyin_numbered": "ye2ye5",
+                "pinyin-numbered": "ye2ye5",
                 "pinyin": "yéye",
                 "simplified": "爷爷",
                 "traditional": "爺爺"
@@ -3554,9 +3554,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "general; ordinary; common; same",
-                "pinyin_numbered": "yi4ban1",
+                "pinyin-numbered": "yi4ban1",
                 "pinyin": "yìbān",
                 "simplified": "一般",
                 "traditional": "一般"
@@ -3568,9 +3568,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "one side; on the one hand; at the same time",
-                "pinyin_numbered": "yi4bian1",
+                "pinyin-numbered": "yi4bian1",
                 "pinyin": "yìbiān",
                 "simplified": "一边",
                 "traditional": "一邊"
@@ -3582,9 +3582,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "surely; certainly; necessarily; definite",
-                "pinyin_numbered": "yi2ding4",
+                "pinyin-numbered": "yi2ding4",
                 "pinyin": "yídìng",
                 "simplified": "一定",
                 "traditional": "一定"
@@ -3596,9 +3596,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "altogether; in total",
-                "pinyin_numbered": "yi2gong4",
+                "pinyin-numbered": "yi2gong4",
                 "pinyin": "yígòng",
                 "simplified": "一共",
                 "traditional": "一共"
@@ -3610,9 +3610,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "a while; a moment",
-                "pinyin_numbered": "yi2hui4r5",
+                "pinyin-numbered": "yi2hui4r5",
                 "pinyin": "yíhuìr",
                 "simplified": "一会儿",
                 "traditional": "一會兒"
@@ -3624,9 +3624,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "the same; alike; equal to",
-                "pinyin_numbered": "yi2yang4",
+                "pinyin-numbered": "yi2yang4",
                 "pinyin": "yíyàng",
                 "simplified": "一样",
                 "traditional": "一樣"
@@ -3638,9 +3638,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "always; all along; straight (in a straight line)",
-                "pinyin_numbered": "yi4zhi2",
+                "pinyin-numbered": "yi4zhi2",
                 "pinyin": "yìzhí",
                 "simplified": "一直",
                 "traditional": "一直"
@@ -3652,9 +3652,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "before; formerly; previous",
-                "pinyin_numbered": "yi3qian2",
+                "pinyin-numbered": "yi3qian2",
                 "pinyin": "yǐqián",
                 "simplified": "以前",
                 "traditional": "以前"
@@ -3666,9 +3666,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "music",
-                "pinyin_numbered": "yin1yue4",
+                "pinyin-numbered": "yin1yue4",
                 "pinyin": "yīnyuè",
                 "simplified": "音乐",
                 "traditional": "音樂"
@@ -3680,9 +3680,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "bank",
-                "pinyin_numbered": "yin2hang2",
+                "pinyin-numbered": "yin2hang2",
                 "pinyin": "yínháng",
                 "simplified": "银行",
                 "traditional": "銀行"
@@ -3694,9 +3694,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "beverage; drink",
-                "pinyin_numbered": "yin3liao4",
+                "pinyin-numbered": "yin3liao4",
                 "pinyin": "yǐnliào",
                 "simplified": "饮料",
                 "traditional": "飲料"
@@ -3708,9 +3708,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "should; ought to; must",
-                "pinyin_numbered": "ying1gai1",
+                "pinyin-numbered": "ying1gai1",
                 "pinyin": "yīnggāi",
                 "simplified": "应该",
                 "traditional": "應該"
@@ -3722,9 +3722,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "influence; affect; effect",
-                "pinyin_numbered": "ying3xiang3",
+                "pinyin-numbered": "ying3xiang3",
                 "pinyin": "yǐngxiǎng",
                 "simplified": "影响",
                 "traditional": "影響"
@@ -3736,9 +3736,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to use (Kangxi radical 101)",
-                "pinyin_numbered": "yong4",
+                "pinyin-numbered": "yong4",
                 "pinyin": "yòng",
                 "simplified": "用",
                 "traditional": "用"
@@ -3750,9 +3750,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "game; play; recreation",
-                "pinyin_numbered": "you2xi4",
+                "pinyin-numbered": "you2xi4",
                 "pinyin": "yóuxì",
                 "simplified": "游戏",
                 "traditional": "游戲"
@@ -3764,9 +3764,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
-                "english": "famous; well_known",
-                "pinyin_numbered": "you3ming2",
+            "translation-data": {
+                "english": "famous; well-known",
+                "pinyin-numbered": "you3ming2",
                 "pinyin": "yǒumíng",
                 "simplified": "有名",
                 "traditional": "有名"
@@ -3778,9 +3778,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "(once) again; also; both (Kangxi radical 29)",
-                "pinyin_numbered": "you4",
+                "pinyin-numbered": "you4",
                 "pinyin": "yòu",
                 "simplified": "又",
                 "traditional": "又"
@@ -3792,9 +3792,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to meet; run into; come across",
-                "pinyin_numbered": "yu4dao4",
+                "pinyin-numbered": "yu4dao4",
                 "pinyin": "yùdào",
                 "simplified": "遇到",
                 "traditional": "遇到"
@@ -3806,9 +3806,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "Chinese monetary unit; dollar; first; principal",
-                "pinyin_numbered": "yuan2",
+                "pinyin-numbered": "yuan2",
                 "pinyin": "yuán",
                 "simplified": "元",
                 "traditional": "元"
@@ -3820,9 +3820,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "be willing; want to; be ready",
-                "pinyin_numbered": "yuan4yi4",
+                "pinyin-numbered": "yuan4yi4",
                 "pinyin": "yuànyì",
                 "simplified": "愿意",
                 "traditional": "願意"
@@ -3834,9 +3834,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "the moon",
-                "pinyin_numbered": "yue4liang5",
+                "pinyin-numbered": "yue4liang5",
                 "pinyin": "yuèliang",
                 "simplified": "月亮",
                 "traditional": "月亮"
@@ -3848,9 +3848,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "even more; the more; exceed",
-                "pinyin_numbered": "yue4",
+                "pinyin-numbered": "yue4",
                 "pinyin": "yuè",
                 "simplified": "越",
                 "traditional": "越"
@@ -3862,9 +3862,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "stand; a station; be on one's feet; service center",
-                "pinyin_numbered": "zhan4",
+                "pinyin-numbered": "zhan4",
                 "pinyin": "zhàn",
                 "simplified": "站",
                 "traditional": "站"
@@ -3876,9 +3876,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "(mw for flat objects); to spread out; (common surname)",
-                "pinyin_numbered": "zhang1",
+                "pinyin-numbered": "zhang1",
                 "pinyin": "zhāng",
                 "simplified": "张",
                 "traditional": "張"
@@ -3890,9 +3890,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "long; length | grow; chief (Kangxi radical 168)",
-                "pinyin_numbered": "chang2, zhang3",
+                "pinyin-numbered": "chang2, zhang3",
                 "pinyin": "cháng, zhǎng",
                 "simplified": "长",
                 "traditional": "長"
@@ -3904,9 +3904,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "to worry; feel anxious",
-                "pinyin_numbered": "zhao2ji2",
+                "pinyin-numbered": "zhao2ji2",
                 "pinyin": "zháojí",
                 "simplified": "着急",
                 "traditional": "著急"
@@ -3918,9 +3918,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "take care of; look after; give consideration",
-                "pinyin_numbered": "zhao4gu5",
+                "pinyin-numbered": "zhao4gu5",
                 "pinyin": "zhàogu",
                 "simplified": "照顾",
                 "traditional": "照顧"
@@ -3932,9 +3932,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "picture; photograph",
-                "pinyin_numbered": "zhao4pian4",
+                "pinyin-numbered": "zhao4pian4",
                 "pinyin": "zhàopiàn",
                 "simplified": "照片",
                 "traditional": "照片"
@@ -3946,9 +3946,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "camera",
-                "pinyin_numbered": "zhao4xiang4ji1",
+                "pinyin-numbered": "zhao4xiang4ji1",
                 "pinyin": "zhàoxiàngjī",
                 "simplified": "照相机",
                 "traditional": "照相機"
@@ -3960,9 +3960,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "but; only; merely; just | (mw for birds and certain animals)",
-                "pinyin_numbered": "zhi1, zhi3",
+                "pinyin-numbered": "zhi1, zhi3",
                 "pinyin": "zhī, zhǐ",
                 "simplified": "只",
                 "traditional": "隻"
@@ -3974,9 +3974,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "only",
-                "pinyin_numbered": "zhi3you3",
+                "pinyin-numbered": "zhi3you3",
                 "pinyin": "zhǐyǒu",
                 "simplified": "只有",
                 "traditional": "隻有"
@@ -3988,9 +3988,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "ability; talent; just now; not until",
-                "pinyin_numbered": "cai2",
+                "pinyin-numbered": "cai2",
                 "pinyin": "cái",
                 "simplified": "才",
                 "traditional": "才"
@@ -4002,9 +4002,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "center; middle; between; among",
-                "pinyin_numbered": "zhong1jian1",
+                "pinyin-numbered": "zhong1jian1",
                 "pinyin": "zhōngjiān",
                 "simplified": "中间",
                 "traditional": "中間"
@@ -4016,9 +4016,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "Chinese (language)",
-                "pinyin_numbered": "Zhong1wen2",
+                "pinyin-numbered": "Zhong1wen2",
                 "pinyin": "Zhōngwén",
                 "simplified": "中文",
                 "traditional": "中文"
@@ -4030,9 +4030,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "at last; in the end; finally",
-                "pinyin_numbered": "zhong1yu2",
+                "pinyin-numbered": "zhong1yu2",
                 "pinyin": "zhōngyú",
                 "simplified": "终于",
                 "traditional": "終於"
@@ -4044,9 +4044,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "type; breed; race; seed",
-                "pinyin_numbered": "zhong3",
+                "pinyin-numbered": "zhong3",
                 "pinyin": "zhǒng",
                 "simplified": "种",
                 "traditional": "種"
@@ -4058,9 +4058,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "important; significant; major",
-                "pinyin_numbered": "zhong4yao4",
+                "pinyin-numbered": "zhong4yao4",
                 "pinyin": "zhòngyào",
                 "simplified": "重要",
                 "traditional": "重要"
@@ -4072,9 +4072,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "weekend",
-                "pinyin_numbered": "zhou1mo4",
+                "pinyin-numbered": "zhou1mo4",
                 "pinyin": "zhōumò",
                 "simplified": "周末",
                 "traditional": "周末"
@@ -4086,9 +4086,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "main; principal; major",
-                "pinyin_numbered": "zhu3yao4",
+                "pinyin-numbered": "zhu3yao4",
                 "pinyin": "zhǔyào",
                 "simplified": "主要",
                 "traditional": "主要"
@@ -4100,9 +4100,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "pay attention to; take notice of; be careful",
-                "pinyin_numbered": "zhu4yi4",
+                "pinyin-numbered": "zhu4yi4",
                 "pinyin": "zhùyì",
                 "simplified": "注意",
                 "traditional": "注意"
@@ -4114,9 +4114,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "oneself; self",
-                "pinyin_numbered": "zi4ji3",
+                "pinyin-numbered": "zi4ji3",
                 "pinyin": "zìjǐ",
                 "simplified": "自己",
                 "traditional": "自己"
@@ -4128,9 +4128,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "bike; bicycle",
-                "pinyin_numbered": "zi4xing2che1",
+                "pinyin-numbered": "zi4xing2che1",
                 "pinyin": "zìxíngchē",
                 "simplified": "自行车",
                 "traditional": "自行車"
@@ -4142,9 +4142,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "always; eventually",
-                "pinyin_numbered": "zong3shi4",
+                "pinyin-numbered": "zong3shi4",
                 "pinyin": "zǒngshì",
                 "simplified": "总是",
                 "traditional": "總是"
@@ -4156,9 +4156,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "mouth",
-                "pinyin_numbered": "zui3",
+                "pinyin-numbered": "zui3",
                 "pinyin": "zuǐ",
                 "simplified": "嘴",
                 "traditional": "嘴"
@@ -4170,9 +4170,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "last; final; ultimately",
-                "pinyin_numbered": "zui4hou4",
+                "pinyin-numbered": "zui4hou4",
                 "pinyin": "zuìhòu",
                 "simplified": "最后",
                 "traditional": "最后"
@@ -4184,9 +4184,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "recently; lately; these days",
-                "pinyin_numbered": "zui4jin4",
+                "pinyin-numbered": "zui4jin4",
                 "pinyin": "zuìjìn",
                 "simplified": "最近",
                 "traditional": "最近"
@@ -4198,9 +4198,9 @@
                 "learned": false,
                 "description": ""
             },
-            "translation_data": {
+            "translation-data": {
                 "english": "school assignment; homework; task",
-                "pinyin_numbered": "zuo4ye4",
+                "pinyin-numbered": "zuo4ye4",
                 "pinyin": "zuòyè",
                 "simplified": "作业",
                 "traditional": "作業"
